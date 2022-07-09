@@ -12,3 +12,4 @@ Features include:
 References: 
 1. https://towardsdatascience.com/an-introduction-to-ibis-for-python-programmers-2112ea32370d
 2. https://quintagroup.com/cms/python/ibis
+3. https://docs.heavy.ai/data-science/introduction-to-ibis
