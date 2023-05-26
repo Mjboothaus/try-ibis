@@ -1,0 +1,14 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Michael Booth", email = "michael@databooth.com.au"},
+]
+dependencies = [
+    "notebook>=6.5.4",
+    "ibis-framework[duckdb,polars]>=5.1.0",
+]
+requires-python = ">=3.10"
+license = {text = "MIT"}
